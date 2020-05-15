@@ -1,0 +1,13 @@
+{
+  "name": "jest-tennis",
+  "version": "1.0.0",
+  "description": "Tennis kata with vanilla js using the jest testing harness",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
